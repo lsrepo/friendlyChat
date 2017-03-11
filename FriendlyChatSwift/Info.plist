@@ -27,6 +27,8 @@
 		<dict>
 			<key>CFBundleTypeRole</key>
 			<string>Editor</string>
+			<key>CFBundleURLName</key>
+			<string>Reversed Client ID</string>
 			<key>CFBundleURLSchemes</key>
 			<array>
 				<string>com.googleusercontent.apps.49210787242-5spohmtjjc2nom26n1eo07ocmrd1kslr</string>
